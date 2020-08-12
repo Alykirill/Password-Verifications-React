@@ -1,0 +1,3 @@
+export const UPDATE_FORM = "UPDATE_FORM";
+export const UPDATE_VALIDATION = "UPDATE_VALIDATION";
+export const RESET_STATE = "RESET_STATE";
