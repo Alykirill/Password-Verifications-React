@@ -72,6 +72,10 @@ const FormComponent: React.FC = () => {
         validate(undefined);
     }
 
+    React.useEffect(() => {
+        validate(undefined);
+    }, []);
+
     return (<Form className="form" onSubmit={submit}>
         {
             success && (
