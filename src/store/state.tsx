@@ -15,3 +15,4 @@ export interface IReduxState {
     validation: IValidation;
     success: boolean;
 };
+

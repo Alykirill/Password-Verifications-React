@@ -27,10 +27,7 @@ const initialState: IReduxState = {
   success: false
 }
 
-export function rootReducer(
-  state = initialState,
-  action: IReduxAction
-): IReduxState {
+export function rootReducer(  state = initialState,  action: IReduxAction): IReduxState {
   switch (action.type) {
     case UPDATE_FORM: {
       return {
