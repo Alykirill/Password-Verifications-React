@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Password-Verifications-React/static/css/main.eefc0127.chunk.css",
+    "main.js": "/Password-Verifications-React/static/js/main.cb94b8a7.chunk.js",
+    "main.js.map": "/Password-Verifications-React/static/js/main.cb94b8a7.chunk.js.map",
+    "runtime-main.js": "/Password-Verifications-React/static/js/runtime-main.83072aff.js",
+    "runtime-main.js.map": "/Password-Verifications-React/static/js/runtime-main.83072aff.js.map",
+    "static/css/2.11829350.chunk.css": "/Password-Verifications-React/static/css/2.11829350.chunk.css",
+    "static/js/2.ab4ddf7f.chunk.js": "/Password-Verifications-React/static/js/2.ab4ddf7f.chunk.js",
+    "static/js/2.ab4ddf7f.chunk.js.map": "/Password-Verifications-React/static/js/2.ab4ddf7f.chunk.js.map",
+    "index.html": "/Password-Verifications-React/index.html",
+    "precache-manifest.0e1a24450e0e5800691b6384ef4cfa04.js": "/Password-Verifications-React/precache-manifest.0e1a24450e0e5800691b6384ef4cfa04.js",
+    "service-worker.js": "/Password-Verifications-React/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Password-Verifications-React/static/css/2.11829350.chunk.css.map",
+    "static/css/main.eefc0127.chunk.css.map": "/Password-Verifications-React/static/css/main.eefc0127.chunk.css.map",
+    "static/js/2.ab4ddf7f.chunk.js.LICENSE.txt": "/Password-Verifications-React/static/js/2.ab4ddf7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83072aff.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ab4ddf7f.chunk.js",
+    "static/css/main.eefc0127.chunk.css",
+    "static/js/main.cb94b8a7.chunk.js"
+  ]
+}
