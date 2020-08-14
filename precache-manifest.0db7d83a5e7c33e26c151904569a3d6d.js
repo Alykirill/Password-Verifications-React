@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9221ed71f5026d58dc3efc6c7dd7e073",
+    "revision": "4067e947cccf1aecd9b00bb434adc3e2",
     "url": "/Password-Verifications-React/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Password-Verifications-React/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a2da1b27cbdaa6e7319f",
-    "url": "/Password-Verifications-React/static/css/main.f03ac104.chunk.css"
+    "revision": "bbd486f64dbe6db636e9",
+    "url": "/Password-Verifications-React/static/css/main.ebde62fe.chunk.css"
   },
   {
     "revision": "dd126ddbe1fcce20a487",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Password-Verifications-React/static/js/2.ab4ddf7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2da1b27cbdaa6e7319f",
-    "url": "/Password-Verifications-React/static/js/main.cb94b8a7.chunk.js"
+    "revision": "bbd486f64dbe6db636e9",
+    "url": "/Password-Verifications-React/static/js/main.863167e9.chunk.js"
   },
   {
     "revision": "f44b062fb466dc7dbc2b",
