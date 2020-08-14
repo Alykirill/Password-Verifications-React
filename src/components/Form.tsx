@@ -92,28 +92,28 @@ const FormComponent: React.FC = () => {
                 </Alert>
             ) : null}
         <FormGroup row>
-            <Label for="username" sm={2}>Username: </Label>
-            <Col sm={10}>
+            <Label for="username" sm={4}>Username: </Label>
+            <Col sm={8}>
                 <Input type="text" name="username" id="username" value={username} onChange={change}
                        onBlur={validate}/>
             </Col>
         </FormGroup>
         <FormGroup row>
-            <Label for="password" sm={2}>Enter Password: </Label>
-            <Col sm={10}>
+            <Label for="password" sm={4}>Enter Password: </Label>
+            <Col sm={8}>
                 <Input type="password" name="password" id="password" value={password} onChange={change}
                        onBlur={validate}/>
             </Col>
         </FormGroup>
         <FormGroup row>
-            <Label for="password" sm={2}>Re-Enter Password: </Label>
-            <Col sm={10}>
+            <Label for="password" sm={4}>Re-Enter Password: </Label>
+            <Col sm={8}>
                 <Input type="password" name="password2" id="password2" value={password2}
                        onChange={change} onBlur={validate}/>
             </Col>
         </FormGroup>
         <Check validation={validation}/>
-        <Button color="primary" type="submit" disabled={blocked}>Submit</Button>
+        <Button color="success" type="submit" disabled={blocked}>Submit</Button>
     </Form>)
 }
 
