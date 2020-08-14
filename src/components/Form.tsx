@@ -79,7 +79,7 @@ const FormComponent: React.FC = () => {
     return (<Form className="form" onSubmit={submit}>
         {
             success && (
-                <Alert color="success">
+                <Alert color="success" >
                     Success
                 </Alert>
             )
@@ -88,10 +88,10 @@ const FormComponent: React.FC = () => {
         {
             (!validation.isPassword2Correct && password.length > 0 && password2.length > 0) ? (
                 <Alert color="danger">
-                    Invalid verification
+                    Passwords don't match
                 </Alert>
             ) : null}
-        <FormGroup row>
+             <FormGroup row>
             <Label for="username" sm={4}>Username: </Label>
             <Col sm={8}>
                 <Input type="text" name="username" id="username" value={username} onChange={change}

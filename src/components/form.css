@@ -1,16 +1,16 @@
-.form {
+.form  {
     margin:0 auto;
     width: 500px;
-    height: 450px;
+    max-height: 550px;
     border: 1px solid rgb(87, 87, 87);
     padding: 10px
-
-
 }
+
+
 
 Button{
     width: 200px;
-    margin-top: 30px;
+    margin-top: 50px;
     position: relative;
     left: 140px;
 
@@ -21,6 +21,7 @@ Label{
     left: 50px;
     height: 60px;
 }
+
 
 Input[type=password ], Input[type=text ]  {
     position: relative;
@@ -33,11 +34,20 @@ Input[type=password ], Input[type=text ]  {
 .text-danger{
     margin-top: 20px;
     position: relative;
-    left: 85px;
+    left: 70px;
 }
 
 .text-success{
     margin-top: 20px;
     position: relative;
-    left: 85px;
+    left: 70px;
+}
+
+.text-danger::before {
+    margin-left: 10px;
+    content: "✘ ";
+}
+
+.text-success::before {
+    content: "✓ "
 }
